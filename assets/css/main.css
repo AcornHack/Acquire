@@ -16,6 +16,14 @@
 		font: inherit;
 		vertical-align: baseline;
 	}
+.marvel{
+
+	width:400px;
+}
+
+
+
+
 
 	article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section {
 		display: block;
@@ -2362,7 +2370,7 @@
 			box-shadow: none;
 			border-radius: 0;
 			margin: 0 0 3em 0;
-			width: 13em;
+			width: 20em;
 		}
 
 			.image.phone img {
@@ -2374,7 +2382,7 @@
 
 			.image.phone .inner, .image.phone:before, .image.phone:after {
 				display: block;
-				border: solid 2px rgba(255, 255, 255, 0.25);
+				/*border: solid 2px rgba(255, 255, 255, 0.25);*/
 			}
 
 			.image.phone .inner {
